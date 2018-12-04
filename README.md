@@ -1,4 +1,6 @@
 # Hello-World
 github example
 
-It is example to learn how th use github to prepare the laspberry pi, smart mirror
+Now I can use the GitHub, even slowly...
+
+I wanna be make the smart mirror soon
